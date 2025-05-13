@@ -23,8 +23,13 @@ This is a simple and elegant React Native app to view device contacts, mark favo
 
 ## 📷 Screenshots
 
-> Add screenshots here if needed.
+![Splash Screen](../ContactApp/src/assets//screenshots/spalsh.jpeg)
 
+![loading Screen](../ContactApp/src/assets//screenshots/loading.jpeg)
+
+![contactList Screen](../ContactApp/src/assets//screenshots/contactList.jpeg)
+
+![favoritecontacts Screen](../ContactApp/src/assets//screenshots/favoritecontacts.jpeg)
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
